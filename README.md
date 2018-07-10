@@ -2,4 +2,5 @@
 fission.io specification example application
 
 ## testing issue-to-pr converting...
-Is this working?
+Is this working? 
+- Proper NGROK setting issued
